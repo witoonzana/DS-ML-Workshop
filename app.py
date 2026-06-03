@@ -20,3 +20,5 @@ elif st.button("💰 Customers"):
     st.switch_page("pages/clean_customers.py")
 elif st.button("💰 Energy"):
     st.switch_page("pages/energy_inventory.py")
+elif st.button("การแปลงข้อมูล"):
+    st.switch_page("pages/transform_app.py")
